@@ -1,7 +1,8 @@
-# AI-interview
+# AI-Review
 
-## Week 1：Langchain
+## Week 1：Langchain Components
 
-### 一、
+### 一、Chat models and prompts
+
 
 
